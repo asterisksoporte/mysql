@@ -1,4 +1,4 @@
-#Server Connection to MySQL:
+#MySQL:
 
 import csv
 import MySQLdb
